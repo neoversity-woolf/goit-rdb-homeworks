@@ -7,7 +7,6 @@
   * [Крок 3](homework-02/krok-3.md)
   * [Крок 4](homework-02/krok-4.md)
 * [Homework 03](homework-03/README.md)
-  * [Опис домашнього завдання](homework-03/opis-domashnogo-zavdannya.md)
   * [Task 1](homework-03/task-1.md)
   * [Task 2](homework-03/task-2.md)
   * [Task 3](homework-03/task-3.md)
