@@ -12,4 +12,8 @@ FROM
 GROUP BY supplier_id;
 ```
 
-<figure><img src="../.gitbook/assets/task-5.01.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/task-5.01.webp" alt="" width="375"><figcaption></figcaption></figure>
+
+Файл з результатами у CSV-форматі
+
+{% file src="../.gitbook/assets/task-5.01.csv" %}

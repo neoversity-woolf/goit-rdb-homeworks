@@ -13,4 +13,8 @@ ORDER BY price DESC
 LIMIT 10;
 ```
 
-<figure><img src="../.gitbook/assets/task-3.01.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/task-3.01.webp" alt="" width="375"><figcaption></figcaption></figure>
+
+Файл з результатами у CSV-форматі
+
+{% file src="../.gitbook/assets/task-3.01.csv" %}

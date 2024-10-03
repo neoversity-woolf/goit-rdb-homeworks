@@ -4,11 +4,15 @@
 
 ```sql
 SELECT 
-    AVG(price) AS average_price,
-    MAX(price) AS max_price,
-    MIN(price) AS min_price
+    FORMAT(AVG(price), 2) AS average_price,
+    FORMAT(MAX(price), 2) AS max_price,
+    FORMAT(MIN(price), 2) AS min_price
 FROM
     mydb.products;
 ```
 
-<figure><img src="../.gitbook/assets/task-2.01.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/task-2.01.webp" alt="" width="375"><figcaption></figcaption></figure>
+
+Файл з результатами у CSV-форматі
+
+{% file src="../.gitbook/assets/task-2.01.csv" %}

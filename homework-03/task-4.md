@@ -11,3 +11,8 @@ WHERE
     price BETWEEN 20 AND 100;
 ```
 
+<figure><img src="../.gitbook/assets/task-4.01.webp" alt="" width="375"><figcaption></figcaption></figure>
+
+Файл з результатами у CSV-форматі
+
+{% file src="../.gitbook/assets/task-4.01.csv" %}

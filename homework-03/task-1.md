@@ -13,10 +13,17 @@
 SELECT * FROM mydb.products;
 ```
 
-<figure><img src="../.gitbook/assets/task-1.01.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/task-1.01.webp" alt="" width="375"><figcaption></figcaption></figure>
 
-```sql
-SELECT name, phone FROM mydb.shippers;
-```
+Файл з результатами у CSV-форматі
 
-<figure><img src="../.gitbook/assets/task-1.02.jpg" alt="" width="375"><figcaption></figcaption></figure>
+{% file src="../.gitbook/assets/task-1.01.csv" %}
+
+<pre class="language-sql"><code class="lang-sql"><strong>SELECT name, phone FROM mydb.shippers;
+</strong></code></pre>
+
+<figure><img src="../.gitbook/assets/task-1.02.webp" alt="" width="375"><figcaption></figcaption></figure>
+
+Файл з результатами у CSV-форматі
+
+{% file src="../.gitbook/assets/task-1.02.csv" %}
