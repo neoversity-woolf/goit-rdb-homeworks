@@ -12,3 +12,7 @@
   * [Task 3](homework-03/task-3.md)
   * [Task 4](homework-03/task-4.md)
   * [Task 5](homework-03/task-5.md)
+* [Homework 04](homework-04/README.md)
+  * [Step 1. Create Schema and Tables](homework-04/step-1.-create-schema-and-tables.md)
+  * [Step 2. Filling the tables with data](homework-04/step-2.-filling-the-tables-with-data.md)
+  * [Step 3.](homework-04/step-3..md)
