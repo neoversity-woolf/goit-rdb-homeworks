@@ -1,6 +1,8 @@
-# Step 4. Count number of rows
+---
+description: Визначте, скільки рядків ви отримали (за допомогою оператора COUNT)
+---
 
-Визначте, скільки рядків ви отримали (за допомогою оператора COUNT).
+# Step 4. Count number of rows
 
 ```sql
 SELECT 
@@ -23,6 +25,6 @@ FROM
     categories ON products.category_id = categories.id;
 ```
 
-Результат запиту:
+#### Результат отриманого запиту
 
 <table data-full-width="false"><thead><tr><th>total_rows</th></tr></thead><tbody><tr><td>518</td></tr></tbody></table>

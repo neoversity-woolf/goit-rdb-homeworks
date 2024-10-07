@@ -1,21 +1,10 @@
 ---
-description: >-
-  Перейдіть до бази даних, з якою працювали у темі 3. Напишіть запит за
-  допомогою операторів FROM та INNER JOIN, що об’єднує всі таблиці даних, які ми
-  завантажили з файлів: order_details, orders, custom
+description: Оберіть тільки ті рядки, де employee_id > 3 та ≤ 10.
 ---
 
-# Step 3. Get all data from DB
-
-Побудуємо **ER діаграму** для візуалізації взаємозвʼязків між таблицями та визначення спільних ключів
-
-<figure><img src="../.gitbook/assets/ERD_shop.png" alt="" width="375"><figcaption><p>ERD Shop</p></figcaption></figure>
-
-Додамо SQL-запит до БД для об’єднання всіх таблиць&#x20;
+# Step 6. Filtering data by employee\_id
 
 ```sql
-USE lesson_03;
-
 SELECT
     orders.id as ord_id,
     orders.date as ord_date,
@@ -56,10 +45,11 @@ INNER JOIN order_details ON order_details.order_id = orders.id
 INNER JOIN products ON order_details.product_id = products.id
 INNER JOIN suppliers ON products.supplier_id = suppliers.id
 INNER JOIN categories ON products.category_id = categories.id
+WHERE employees.employee_id > 3 AND employees.employee_id <= 10;
 ```
+
+<figure><img src="../.gitbook/assets/hw-04_step-06 (1).jpg" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
 
 #### Результат отриманого запиту
 
-{% embed url="https://docs.google.com/spreadsheets/d/14HcFm0rS18mGnuXD8Tj26cDV8u7KpsvgfDU7a4gX7fI/edit?usp=sharing" %}
-518 row(s) returned
-{% endembed %}
+{% embed url="https://docs.google.com/spreadsheets/d/1HjaPTXZEMb5c4fQshHGL330Ox10nzbdsfBE09LnLXcA/edit?usp=sharing" %}
