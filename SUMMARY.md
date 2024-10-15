@@ -25,3 +25,5 @@
   * [Step 10. Final result](homework-04/step-10.-final-result.md)
 * [Homework 05](homework-05/README.md)
   * [Tasks](homework-05/tasks.md)
+* [Homework 07](homework-07/README.md)
+  * [Tasks](homework-07/tasks.md)
