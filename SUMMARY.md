@@ -23,3 +23,5 @@
   * [Step 8. Filtering goods](homework-04/step-8.-filtering-goods.md)
   * [Step 9. Sorting goods](homework-04/step-9.-sorting-goods.md)
   * [Step 10. Final result](homework-04/step-10.-final-result.md)
+* [Homework 05](homework-05/README.md)
+  * [Tasks](homework-05/tasks.md)
