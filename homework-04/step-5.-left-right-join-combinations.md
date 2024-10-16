@@ -49,7 +49,7 @@ RIGHT JOIN suppliers ON products.supplier_id = suppliers.id
 RIGHT JOIN categories ON products.category_id = categories.id;
 ```
 
-<figure><img src="../.gitbook/assets/hw-04_step-05.jpg" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hw-04_step-05.webp" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
 
 Теоретично при зміні операторів `INNER JOIN` на `LEFT JOIN` або `RIGHT JOIN`, кількість рядків, які повертаються запитом, може змінитися.
 

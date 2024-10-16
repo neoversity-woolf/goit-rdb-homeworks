@@ -21,7 +21,7 @@ HAVING avg_product_count > 21
 ORDER BY product_count DESC;
 ```
 
-<figure><img src="../.gitbook/assets/hw-04_step-09.jpg" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hw-04_step-09.webp" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
 
 #### Результат отриманого запиту
 

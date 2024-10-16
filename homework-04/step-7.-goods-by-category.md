@@ -21,7 +21,7 @@ FROM
 GROUP BY categories.id , categories.name
 ```
 
-<figure><img src="../.gitbook/assets/hw-04_step-07 (1).jpg" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hw-04_step-07.webp" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
 
 #### Результат отриманого запиту
 

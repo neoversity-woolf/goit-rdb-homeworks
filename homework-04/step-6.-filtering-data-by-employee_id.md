@@ -48,7 +48,7 @@ INNER JOIN categories ON products.category_id = categories.id
 WHERE employees.employee_id > 3 AND employees.employee_id <= 10;
 ```
 
-<figure><img src="../.gitbook/assets/hw-04_step-06 (1).jpg" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hw-04_step-06.webp" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
 
 #### Результат отриманого запиту
 

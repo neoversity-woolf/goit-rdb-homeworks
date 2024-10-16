@@ -20,7 +20,7 @@ GROUP BY categories.id , categories.name
 HAVING avg_product_count > 21;
 ```
 
-<figure><img src="../.gitbook/assets/hw-04_step-08.jpg" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hw-04_step-08.webp" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
 
 #### Результат отриманого запиту
 

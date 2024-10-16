@@ -9,7 +9,7 @@ description: >-
 
 Побудуємо **ER діаграму** для візуалізації взаємозвʼязків між таблицями та визначення спільних ключів
 
-<figure><img src="../.gitbook/assets/ERD_shop.png" alt="" width="375"><figcaption><p>ERD Shop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hw-04_ERD.webp" alt=""><figcaption><p>ER-Diagram</p></figcaption></figure>
 
 Додамо SQL-запит до БД для об’єднання всіх таблиць&#x20;
 

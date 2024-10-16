@@ -22,7 +22,7 @@ ORDER BY product_count DESC
 LIMIT 4 OFFSET 1;
 ```
 
-<figure><img src="../.gitbook/assets/hw-04_step-10.jpg" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/hw-04_step-10.webp" alt="" width="375"><figcaption><p>SQL query result</p></figcaption></figure>
 
 #### Результат отриманого запиту
 
