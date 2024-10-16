@@ -34,15 +34,18 @@ SELECT
     *
 FROM
     order_details
-        JOIN
-    orders ON order_details.order_id = orders.id
 WHERE
-    shipper_id = 3;
+    order_id IN (SELECT 
+            id
+        FROM
+            orders
+        WHERE
+            shipper_id = 3);
 ```
 
 <figure><img src="../.gitbook/assets/hw-05_task_02.webp" alt="" width="375"><figcaption></figcaption></figure>
 
-{% embed url="https://docs.google.com/spreadsheets/d/1oChrAWyoZKgpa_Z45izWtZsULxqfx34y94UC6LBK0ds/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/166-uR73_Uy_wYqGBYM9SCJv9K7eBG8o37qmOanvwXyw/edit?usp=sharing" %}
 task-02
 {% endembed %}
 
