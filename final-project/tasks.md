@@ -2,7 +2,7 @@
 icon: server
 ---
 
-# Final Project
+# Tasks
 
 1\. Завантажте дані:
 
@@ -30,15 +30,15 @@ query result
 
 <div>
 
-<figure><img src=".gitbook/assets/fp_task-01-1.webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-01-1.webp" alt="" width="188"><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/fp_task-01-2.webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-01-2.webp" alt="" width="188"><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/fp_task-01-3.webp" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-01-3.webp" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,11 +114,11 @@ query result
 
 <div>
 
-<figure><img src=".gitbook/assets/fp_task-02-1.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-02-1.webp" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/fp_task-02-2.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-02-2.webp" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -149,7 +149,7 @@ LIMIT 10;
 query result
 {% endembed %}
 
-<figure><img src=".gitbook/assets/fp_task-03.webp" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-03.webp" alt="" width="375"><figcaption></figcaption></figure>
 
 4\. Побудуйте колонку різниці в роках.
 
@@ -176,7 +176,7 @@ LIMIT 10;
 query result
 {% endembed %}
 
-<figure><img src=".gitbook/assets/fp_task-04.webp" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-04.webp" alt="" width="375"><figcaption></figcaption></figure>
 
 5\. Побудуйте власну функцію.
 
@@ -215,4 +215,4 @@ LIMIT 10;
 query result
 {% endembed %}
 
-<figure><img src=".gitbook/assets/fp_task-05.webp" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fp_task-05.webp" alt="" width="375"><figcaption></figcaption></figure>

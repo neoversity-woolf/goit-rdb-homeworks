@@ -27,4 +27,5 @@
   * [Tasks](homework-05/tasks.md)
 * [Homework 07](homework-07/README.md)
   * [Tasks](homework-07/tasks.md)
-* [Final Project](final-project.md)
+* [Final Project](final-project/README.md)
+  * [Tasks](final-project/tasks.md)
